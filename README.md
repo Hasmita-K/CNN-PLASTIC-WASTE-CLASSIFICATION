@@ -14,15 +14,15 @@ Link to access dataset: https://www.kaggle.com/datasets/techsash/waste-classific
 The dataset consists of 25,077 images of recyclable and organic waste.
 ## Methodology
 1. Data Collection and Preprocessing:
- -Gather a dataset of plastic waste images from open sources or create a custom dataset.
- -Perform preprocessing, including resizing, normalization, and data augmentation, to improve model generalization.
+-Gather a dataset of plastic waste images from open sources or create a custom dataset.
+-Perform preprocessing, including resizing, normalization, and data augmentation, to improve model generalization.
 2. Model Design:
- -Implement a CNN architecture using TensorFlow or PyTorch.
- -Experiment with popular architectures like VGG, ResNet, or MobileNet, or design a custom CNN tailored to the dataset.
+-Implement a CNN architecture using TensorFlow or PyTorch.
+-Experiment with popular architectures like VGG, ResNet, or MobileNet, or design a custom CNN tailored to the dataset.
 3. Training and Evaluation:
- -Split the dataset into training, validation, and test sets.
- -Train the CNN model using appropriate optimization techniques.
- -Evaluate the model on test data and fine-tune hyperparameters for better performance.
+-Split the dataset into training, validation, and test sets.
+-Train the CNN model using appropriate optimization techniques.
+-Evaluate the model on test data and fine-tune hyperparameters for better performance.
 ## Weekly Updates
 Week 1 (20th January 2025 - 24th January 2025): Installation of libraries, importing data, and basic setup.
 ## Future Scope
