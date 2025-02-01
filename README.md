@@ -26,6 +26,7 @@ The dataset consists of 25,077 images of recyclable and organic waste.
    - Evaluate the model on test data and fine-tune hyperparameters for better performance.  
 ## Weekly Updates
 Week 1 (20th January 2025 - 24th January 2025): Installation of libraries, importing data, and basic setup.
+Week 2 (27th January 2025 - 31st January 2025): Training of the model.
 ## Future Scope
 1. Extend the project to classify other waste categories such as glass, metal, and paper.
 2. Integrate the model with IoT devices for real-time waste classification.
